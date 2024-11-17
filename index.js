@@ -1,1 +1,0 @@
-<button onclick="document.getElementById('myImage').src='pic_bulbon.gif'">   cu </button>
