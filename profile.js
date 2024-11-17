@@ -30,5 +30,5 @@ new Swiper('.card-wrapper', {
 });
 
 function jump() {
-  window.location.href = "../maps/maps.html";
+  window.location.href = "maps.html";
 }

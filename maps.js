@@ -42,5 +42,5 @@ function add() {
   }
   
 function jump(){
-    window.location.href = "../flash/flash.html";
+    window.location.href = "flash.html";
 }

@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const password = document.getElementById("password").value;
 
         if (username === "user" && password === "web") {
-            window.location.href = "../profilePage/profile.html";
+            window.location.href = "profile.html";
         } else {
             alert("Failed login");
         }
